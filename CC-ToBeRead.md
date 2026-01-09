@@ -1,0 +1,1 @@
+https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#super-power-speed-and-data
