@@ -1,0 +1,74 @@
+{
+  "userName": "",
+  "enableBlocklist": true,
+  "blockedCommands": {
+    "unix": [
+      "rm -rf",
+      "chmod 777",
+      "chmod -R 777"
+    ],
+    "windows": [
+      "del /s /q",
+      "rd /s /q",
+      "rmdir /s /q",
+      "format",
+      "diskpart",
+      "Remove-Item -Recurse -Force",
+      "Remove-Item -Force -Recurse",
+      "Remove-Item -r -fo",
+      "Remove-Item -fo -r",
+      "Remove-Item -Recurse",
+      "Remove-Item -r",
+      "ri -Recurse",
+      "ri -r",
+      "ri -Force",
+      "ri -fo",
+      "rm -r -fo",
+      "rm -Recurse",
+      "rm -Force",
+      "del -Recurse",
+      "del -Force",
+      "erase -Recurse",
+      "erase -Force",
+      "rd -Recurse",
+      "rmdir -Recurse",
+      "Format-Volume",
+      "Clear-Disk",
+      "Initialize-Disk",
+      "Remove-Partition"
+    ]
+  },
+  "permissionMode": "normal",
+  "model": "Minimax-M2.1",
+  "thinkingBudget": "medium",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "allowedExportPaths": [
+    "~/Desktop",
+    "~/Downloads"
+  ],
+  "persistentExternalContextPaths": [],
+  "environmentVariables": "ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic\nANTHROPIC_API_KEY=sk-api-aktzGp7u8jiKoE_Vf6vLSQLAek4ZfQBgjPQj1C10ScE1d6q4L47_iKMI3uJUwmQdba_xBnMXq37KBAGUuAEz7B15lWjf6Sm2tWUEtLEpnzRA7ZNEZM_qrHA\nANTHROPIC_MODEL=Minimax-M2.1",
+  "envSnippets": [],
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "locale": "en",
+  "claudeCliPath": "",
+  "claudeCliPaths": {
+    "macos": "",
+    "linux": "",
+    "windows": ""
+  },
+  "loadUserClaudeSettings": true,
+  "lastClaudeModel": "sonnet",
+  "lastCustomModel": "",
+  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic|ANTHROPIC_MODEL=Minimax-M2.1",
+  "enabledPlugins": [],
+  "maxTabs": 3
+}

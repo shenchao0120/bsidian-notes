@@ -19,7 +19,7 @@
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
-  "treeStructure": false,
+  "treeStructure": true,
   "refreshSourceControl": true,
   "basePath": "/Users/shenchao/Documents/obsidina/我的仓库",
   "differentIntervalCommitAndPush": false,
